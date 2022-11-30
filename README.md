@@ -1,13 +1,14 @@
 # ITP4915
 
 TESTING ACCOUNT:
-'''
+```
 ACCOUNT: sales
 PASSWORD: sales
-'''
+```
 
 # Demon
-
+![Login]([https://github.com/TonnyWong1052/ITP4915/blob/main/demon/Login.png])
+![POS]([https://github.com/TonnyWong1052/ITP4915/blob/main/demon/pos.png])
 
 
 # Functional Requirements

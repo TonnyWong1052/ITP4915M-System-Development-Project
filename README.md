@@ -11,6 +11,7 @@ PASSWORD: sales
 ![POS](https://github.com/TonnyWong1052/ITP4915/blob/main/demon/pos.png)
 ![editOrder](https://github.com/TonnyWong1052/ITP4915/blob/main/demon/editOrder.png)
 ![editOrder2](https://github.com/TonnyWong1052/ITP4915/blob/main/demon/editOrder-1.png)
+![ManagerSendRequest](https://github.com/TonnyWong1052/ITP4915/blob/main/demon/storeManager.png)
 
 
 # Functional Requirements

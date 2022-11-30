@@ -9,6 +9,8 @@ PASSWORD: sales
 # Demon
 ![Login](https://github.com/TonnyWong1052/ITP4915/blob/main/demon/Login.png)
 ![POS](https://github.com/TonnyWong1052/ITP4915/blob/main/demon/pos.png)
+![editOrder](https://github.com/TonnyWong1052/ITP4915/blob/main/demon/editOrder.png)
+![editOrder2](https://github.com/TonnyWong1052/ITP4915/blob/main/demon/editOrder-1.png)
 
 
 # Functional Requirements

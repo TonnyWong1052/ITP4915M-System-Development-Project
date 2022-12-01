@@ -1,6 +1,6 @@
 # ITP4915 - System Development Project 
 
-TESTING ACCOUNT:
+# ACCOUNT:
 ```
 ACCOUNT: sales
 PASSWORD: sales

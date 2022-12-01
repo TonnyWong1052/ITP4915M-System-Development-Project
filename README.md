@@ -1,4 +1,4 @@
-# ITP4915 System development project 
+# ITP4915 - System Development Project 
 
 TESTING ACCOUNT:
 ```

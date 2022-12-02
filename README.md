@@ -52,7 +52,7 @@ PASSWORD: sales
 -	Delete purchase product function (requirements: select purchase ID).
 -	Generate daily delivery document function (requirements: select date. document format: PDF).
 
-## Account staff and manager function:
+## Accounting staff and manager function:
 -	Data analysis function (a bar chart).
 -	Problem review (requirements: select feedback ID).
 

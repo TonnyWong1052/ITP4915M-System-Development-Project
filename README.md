@@ -1,4 +1,5 @@
 # ITP4915 - System Development Project 
+> Programming language: C# (winform)
 
 # ACCOUNT:
 ```

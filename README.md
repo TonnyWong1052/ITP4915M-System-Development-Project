@@ -1,4 +1,4 @@
-# ITP4915 - System Development Project 
+# ITP4915 - System Development Project (Point Of Sales System)
 > IT114105 Software Engineering (Tuen Mun)
 > 
 > Programming language: C# (winform)
